@@ -6,7 +6,7 @@ class Helloworld
 {
 	public static void main (string args[])
 	{
-		system.out.println("Hello Shine");
+		system.out.println("Welcome to Online Shine training");
 	}
 
 }

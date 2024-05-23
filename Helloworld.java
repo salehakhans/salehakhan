@@ -4,9 +4,10 @@
 
 class Helloworld
 {
-	public static void main (string args[])
+
+	public static void main (String args[]) 
 	{
-		system.out.println("Welcome to Online Shine training");
+		System.out.println ("Hello Edureka");
 	}
 
 }

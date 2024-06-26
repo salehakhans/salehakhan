@@ -7,7 +7,7 @@ class Helloworld
 
 	public static void main (String args[]) 
 	{
-		System.out.println ("Welcome to jenkins online training");
+		System.out.println ("Welcome to Edureka jenkins online training");
 	}
 
 }
